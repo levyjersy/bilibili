@@ -1,0 +1,177 @@
+﻿	html,body{
+		font-size: 15px;
+		font-family: "Microsoft YaHei",Arial,Helvetica,sans-serif;
+		color:#222;
+		margin:0;
+		padding: 0
+	}
+	a:link {
+		color: #222
+	}
+a:visited {
+	color: #222
+}
+a:hover {
+	color: #FF00FF
+}
+a:active {
+	color: #222
+}
+a{
+	text-decoration: none
+}
+#biggest{
+	width:1349px;
+	height:1046px;
+}
+  #first{
+  	width:1349px;
+height: 46px;
+background:rgb(241,241,241);
+text-align: center
+}
+.zhu{
+	width:91px;
+height:30px;
+padding: 0;
+margin:0;
+position: relative;
+left:180px;
+}
+.aa{
+	text-align: center;
+	padding-top: 12px
+}
+.hua{
+	width:70px;
+height:30px;
+padding: 0;
+margin:0;
+position: relative;
+left:271px;
+top:-18px;
+}
+.you{
+	width:70px;
+height:30px;
+padding: 0;
+margin:0;
+position: relative;
+top:-48px;
+left:362px;
+}
+.zhi{
+	width:70px;
+height:30px;
+padding: 0;
+margin:0;
+position: relative;
+top:-78px;
+left:453px;
+}
+.shou{
+	width:70px;
+height:30px;
+padding: 0;
+margin:0;
+position: relative;
+top:-108px;
+left:544px;
+}
+#second{
+	width:1349px;
+height:107px;
+}
+#third{
+	width:1349px;
+}
+#forth{
+	width:1349px;
+height: 400px
+}
+.ce{
+	width:530px;
+height: 273px;
+position: relative;
+left:160px;
+top:10px;
+}
+.ji{
+	width:162px;
+height: 42px;
+position: relative;
+left:178px;
+top:-114px;
+}
+.bd{
+	width:400px;
+height: 317px;
+position: relative;
+left:730px;
+top:-240px;
+}
+#zh,#mi,#yan,#deng{
+height: 40px;
+}
+#zh,#mi{
+	width:350px;
+}
+#yan{
+	width:160px;
+}
+#code{
+	position: relative;
+	top: 10px;
+	display: none;
+}
+.by,.bz{
+	height: 70px
+}
+#checkphone,#checkpass,#checkcode{
+	font-size: 12px;
+	color: rgb(246,100,149);
+}
+.bw{
+	font-size: 12px;
+width:80px;
+position: relative;
+top:4px;
+left:-4px;
+}
+#deng{
+	width:350px;
+background:rgb(0,167,222);
+color: white;
+border: 0
+}
+.bv{
+	margin-top:10px
+}
+.bu{
+	width:400px;
+height: 40px
+}
+.weibo{
+	width:120px;
+height: 40px;
+position: relative;
+left:-10px;
+top:3px;
+}
+.qq{
+	width:120px;
+height: 40px;
+position: relative;
+left:120px;
+top:-36px;
+}
+.zc{
+	width:130px;
+height: 40px;
+position: relative;
+left:248px;
+top:-73px;
+}
+#fifth{
+	margin-top: 400px
+}

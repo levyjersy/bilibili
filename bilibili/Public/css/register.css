@@ -1,0 +1,197 @@
+﻿html,body{
+	    font-size: 15px;
+		font-family: "Microsoft YaHei",Arial,Helvetica,sans-serif;
+		color:#222;
+		margin:0;
+		padding: 0
+	}
+a:link {
+	color: #222
+}
+a:visited {
+	color: #222
+}
+a:hover {
+	color: #FF00FF
+}
+a:active {
+	color: #222
+}
+a{
+	text-decoration: none
+}
+.biggest{
+	width:1349px;
+    height:1046px;
+}
+  #first{
+  	width:1349px;
+    height: 46px;
+    background:rgb(241,241,241);
+    text-align: center
+}
+.zhu{
+	width:91px;
+    height:30px;
+    padding: 0;
+    margin:0;
+    position: relative;
+    left:180px;
+}
+.aa{
+	text-align: center;
+	padding-top: 12px
+}
+.hua{
+	width:70px;
+    height:30px;
+    padding: 0;
+    margin:0;
+    position: relative;
+    left:271px;
+    top:-18px;}
+.you{
+	width:70px;
+    height:30px;
+    padding: 0;
+    margin:0;
+    position: relative;
+    top:-48px;
+    left:362px;
+}
+.zhi{
+	width:70px;
+    height:30px;
+    padding: 0;
+    margin:0;
+    position: relative;
+    top:-78px;
+    left:453px;
+}
+.shou{
+	width:70px;
+    height:30px;
+    padding: 0;
+    margin:0;
+    position: relative;
+    top:-108px;
+    left:544px;
+}
+#second{
+	width:1349px;
+    height:107px;
+}
+#third{
+		width:1349px;
+}
+#forth{
+	width:1349px;
+    height:40px;
+}
+select{
+	width:91px;
+    height:40px;
+    position: relative;
+    left:467px;
+}
+#a1,#a2,#a3,#a4,button{
+	height:40px;
+}
+.f1{
+	width:450px;
+    height:40px;
+    position: relative;
+    left:567px;
+    top:-40px;
+}
+#a1{
+	width:317px;
+}
+#checkphone,#checkcode,#checkname,#checkpass{
+    font-size: 12px;
+    color: rgb(246,100,149);
+    position: relative;
+    left: 20px;    
+}
+#five{
+	width:100px;
+	height:30px;
+	font-size: 12px;
+    position: relative;
+    left:800px;
+    top:15px;
+}
+#six{
+	width:520px;
+	height:40px;
+}
+#a2{
+    width: 303px;
+}
+#code{
+    position: relative;
+    top: 10px;
+    display: none;
+}
+#a3,#a4,button{
+	width:415px;
+}
+.f2{
+	position: relative;
+    left:467px;
+    top:15px;
+}
+.d1{	
+	width:90px;
+	height:20px;
+	background:rgb(245,245,245);
+	text-align: center;
+	position: relative;
+    left:322px;
+    top:-30px;
+}
+.f3{
+	position: relative;
+    left:467px;
+    top:50px;
+}
+#seven{
+	color: blue;
+	font-size: 12px;
+	position: relative;
+    left:462px;
+    top:75px;
+}
+.f4{
+	position: relative;
+    left:467px;
+    top:70px;
+}
+.mm{
+	width:145px;
+	height:20px;
+	position: relative;
+    left:70px;
+    top:-17px;
+}
+button{
+	background:rgb(221,221,221);
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	position: relative;
+    left:467px;
+    top:60px;
+}
+#nine{
+	width:120px;
+	height:20px;
+	position: relative;
+    left:770px;
+    top:70px;
+    font-size: 12px;
+}
+#ten{
+	position: relative;
+    top:500px;
+}
